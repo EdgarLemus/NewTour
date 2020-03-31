@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Background Feature" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-31T16:15:26" hostname="SQAT1MDEWIN34" time="424.367">
+  <properties/>
+  <testcase name="Login Successfully" classname="Test Background Feature" time="424.367"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 35566
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1585671337.831][WARNING]: Timed out connecting to Chrome, retrying...
+mar 31, 2020 11:15:39 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[1585671342.089][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671342.191][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671342.293][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671342.395][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671342.566][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671342.668][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671342.770][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671342.872][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671342.975][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.078][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.180][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.282][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.385][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.487][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.589][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.691][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.793][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671343.895][SEVERE]: Timed out receiving message from renderer: 0.100
+[1585671628.110][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671632.148][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671649.233][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671653.515][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671664.606][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671668.607][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671678.876][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671682.880][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671694.178][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671698.179][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671709.170][WARNING]: Timed out connecting to Chrome, retrying...
+[1585671713.170][WARNING]: Timed out connecting to Chrome, retrying...
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Login Successfully
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
